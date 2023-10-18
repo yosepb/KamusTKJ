@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kamus TKJ</string>
+    <string name="action_settings">Cara Pakai</string>
+    <string name="action_aboutyosep">About</string>
+    <string name="deskripsilogo">Logo Kamus TKJ</string>
+    <string name="tvsatu">Cari Arti:</string>
+    <string name="tvdua">Hasil:</string>
+    <string name="petunjuksatu"> </string>
+    <string name="petunjukdua"> </string>
+    <string name="btsatu">Terjemahkan</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="tvtiga">Ketika mencari arti tidak muncul terjemahannya?, berikut panduan dalam pemakaian Kamus TKJ.</string>
+    <string name="tvempat">1. Hindari pengetikan memakai huruf pertama kecil, ketika mencari terjemahan diharuskan untuk memakai huruf kapital pada awal huruf. Contohnya: proxy -> harusnya Proxy</string>
+    <string name="tvlima">2. Pada saat mencari arti berjenis singkatan, disarankan untuk memakai huruf kapital seluruhnya. Contohnya: dhcp -> harusnya DHCP</string>
+    <string name="tvenam">About Me and the App</string>
+    <string name="tvtujuh">Hai!, nama saya Yosep Bahtiar. Saya adalah seorang pelajar yang bersekolah di SMK Wirakarya 1 Ciparay Jurusan TKJ tahun ajaran 2016/17.</string>
+    <string name="tvdelapan">Tujuan saya membuat aplikasi ini adalah untuk memenuhi salah satu syarat agar bisa mengikuti Ujian Nasional &amp; Sidang setelah PRAKERIN</string>
+    <string name="tvsembilan">Untuk memberi masukan, bisa <i>"contact"</i> saya via:</string>
+    <string name="tvsepuluh">E-Mail = yosep123tiar@gmail.com</string>
+    <string name="tvsebelas">Pin BBM = 59FD2F60</string>
+    <string name="tvduabelas">Tolong bantu share aplikasi ini, karena aplikasi Kamus TKJ ini dapat digunakan untuk umum dan pelajar yang ingin mengetahui ilmu tentang komputer dan jaringan.</string>
+</resources>
